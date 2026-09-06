@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-dag-parallel-branch-fanout-join-skill",
+  "version": "1.0.0",
+  "description": "Parallel branch fanout and barrier join coordinator for multi-agent DAG subtasks with isolated error containment.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "fanout",
+    "join",
+    "barrier",
+    "parallel-dag",
+    "genpark",
+    "mcp"
+  ]
+}
